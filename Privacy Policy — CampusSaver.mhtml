@@ -1,0 +1,290 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///Users/nidhi/Downloads/privacy.html
+Subject: =?utf-8?Q?Privacy=20Policy=20=E2=80=94=20CampusSaver?=
+Date: Thu, 13 Aug 2026 15:22:14 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--G9B9igNqtp1i7O2UFa2dpEFDY3lE2Ku6ildQGrG09G----"
+
+
+------MultipartBoundary--G9B9igNqtp1i7O2UFa2dpEFDY3lE2Ku6ildQGrG09G----
+Content-Type: text/html
+Content-ID: <frame-5F0305B7A6510190CC9227CFEA9C94A9@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///Users/nidhi/Downloads/privacy.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-cf0ae4f4-c2ec-43c9-ae06-e8e4d6984531@mhtml.blink" />
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<title>Privacy Policy =E2=80=94 CampusSaver</title>
+<link rel=3D"preconnect" href=3D"https://fonts.googleapis.com/">
+<link rel=3D"preconnect" href=3D"https://fonts.gstatic.com/" crossorigin=3D=
+"">
+<link href=3D"https://fonts.googleapis.com/css2?family=3DBricolage+Grotesqu=
+e:opsz,wght@12..96,400..800&amp;family=3DLibre+Franklin:wght@400;500;600&am=
+p;family=3DIBM+Plex+Mono:wght@500&amp;display=3Dswap" rel=3D"stylesheet">
+
+</head>
+<body>
+<div class=3D"wrap">
+  <p class=3D"eyebrow">Legal</p>
+  <h1>Privacy Policy</h1>
+  <p class=3D"updated">Last updated: August 13, 2026</p>
+
+  <p>This Privacy Policy explains how CampusSaver ("we," "us," or "this sit=
+e") collects, uses, and protects information when you visit campussaver.exa=
+mple (replace with your real domain once you have one).</p>
+
+  <h2>Information we collect</h2>
+  <p>We do not require you to create an account or provide personal informa=
+tion to read this site. We may collect limited information automatically, i=
+ncluding:</p>
+  <ul>
+    <li>Pages visited and time spent on the site</li>
+    <li>Browser type, device type, and approximate location (via IP address=
+)</li>
+    <li>Referring website or search terms that led you here</li>
+  </ul>
+  <p>If you subscribe to our email list, we collect the email address you p=
+rovide, used only to send site updates. You can unsubscribe at any time.</p=
+>
+
+  <h2>Cookies and advertising</h2>
+  <p>This site uses Google AdSense to display advertisements. Google and it=
+s partners may use cookies, including the DoubleClick cookie, to serve ads =
+based on your visits to this and other websites.</p>
+  <ul>
+    <li>Google's use of advertising cookies enables it and its partners to =
+serve ads based on your visit to this site and/or other sites on the Intern=
+et.</li>
+    <li>You may opt out of personalized advertising by visiting <a href=3D"=
+https://adssettings.google.com/" target=3D"_blank" rel=3D"noopener">Google =
+Ads Settings</a>.</li>
+    <li>You can also opt out of third-party vendor use of cookies for perso=
+nalized advertising by visiting <a href=3D"https://www.aboutads.info/choice=
+s" target=3D"_blank" rel=3D"noopener">www.aboutads.info</a>.</li>
+  </ul>
+
+  <h2>Third-party services</h2>
+  <p>We may use third-party analytics tools (such as Google Analytics) to u=
+nderstand how visitors use the site. These services may collect data as des=
+cribed in their own privacy policies.</p>
+
+  <h2>Children's privacy</h2>
+  <p>This site is not directed at children under 13, and we do not knowingl=
+y collect personal information from children under 13.</p>
+
+  <h2>Your choices</h2>
+  <p>You can control cookies through your browser settings, and opt out of =
+personalized advertising using the links above. Disabling cookies may affec=
+t how the site functions.</p>
+
+  <h2>Changes to this policy</h2>
+  <p>We may update this Privacy Policy from time to time. Changes will be p=
+osted on this page with an updated revision date.</p>
+
+  <h2>Contact us</h2>
+  <p>If you have questions about this Privacy Policy, contact us at <a href=
+=3D"mailto:hello@example.com">hello@example.com</a> (replace with your real=
+ contact email).</p>
+
+  <a class=3D"back" href=3D"file:///Users/nidhi/Downloads/index.html">=E2=
+=86=90 Back to CampusSaver</a>
+</div>
+
+
+</body></html>
+------MultipartBoundary--G9B9igNqtp1i7O2UFa2dpEFDY3lE2Ku6ildQGrG09G----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-cf0ae4f4-c2ec-43c9-ae06-e8e4d6984531@mhtml.blink
+
+@charset "utf-8";
+
+:root { --paper: #FAFAF6; --paper-line: #E4E1D6; --ink: #1C2333; --ink-soft=
+: #5B6270; --money: #1F7A4D; }
+
+body { margin: 0px; background: var(--paper); color: var(--ink); font-famil=
+y: "Libre Franklin", sans-serif; line-height: 1.65; }
+
+.wrap { max-width: 720px; margin: 0px auto; padding: 60px 24px 80px; }
+
+a { color: var(--money); }
+
+.eyebrow { font-family: "IBM Plex Mono", monospace; font-size: 0.8rem; lett=
+er-spacing: 0.06em; text-transform: uppercase; color: var(--money); margin-=
+bottom: 12px; }
+
+h1 { font-family: "Bricolage Grotesque", sans-serif; font-weight: 800; font=
+-size: 2.2rem; margin: 0px 0px 8px; }
+
+.updated { color: var(--ink-soft); font-size: 0.9rem; margin-bottom: 40px; =
+}
+
+h2 { font-family: "Bricolage Grotesque", sans-serif; font-size: 1.3rem; mar=
+gin: 36px 0px 10px; }
+
+p, li { color: var(--ink-soft); font-size: 1rem; }
+
+ul { padding-left: 20px; }
+
+.back { display: inline-block; margin-top: 40px; font-family: "IBM Plex Mon=
+o", monospace; font-size: 0.85rem; text-decoration: none; color: var(--ink)=
+; }
+------MultipartBoundary--G9B9igNqtp1i7O2UFa2dpEFDY3lE2Ku6ildQGrG09G----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Libre+Franklin:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "Bricolage Grotesque"; font-style: normal; font-w=
+eight: 400 800; font-stretch: 100%; font-display: swap; src: url("https://f=
+onts.gstatic.com/s/bricolagegrotesque/v9/3y9K6as8bTXq_nANBjzKo3IeZx8z6up5Be=
+Sl9D4dj_x9PpZBMlGHInHWVyNJtvI.woff2") format("woff2"); unicode-range: U+102=
+-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+3=
+03-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Bricolage Grotesque"; font-style: normal; font-w=
+eight: 400 800; font-stretch: 100%; font-display: swap; src: url("https://f=
+onts.gstatic.com/s/bricolagegrotesque/v9/3y9K6as8bTXq_nANBjzKo3IeZx8z6up5Be=
+Sl9D4dj_x9PpZBMlGGInHWVyNJtvI.woff2") format("woff2"); unicode-range: U+100=
+-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D=
+00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113=
+, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Bricolage Grotesque"; font-style: normal; font-w=
+eight: 400 800; font-stretch: 100%; font-display: swap; src: url("https://f=
+onts.gstatic.com/s/bricolagegrotesque/v9/3y9K6as8bTXq_nANBjzKo3IeZx8z6up5Be=
+Sl9D4dj_x9PpZBMlGIInHWVyNJ.woff2") format("woff2"); unicode-range: U+0-FF, =
+U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+20=
+00-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "IBM Plex Mono"; font-style: normal; font-weight:=
+ 500; font-display: swap; src: url("https://fonts.gstatic.com/s/ibmplexmono=
+/v20/-F6qfjptAgt5VM-kVkqdyU8n3twJwl1FgsAXHNlYzg.woff2") format("woff2"); un=
+icode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE=
+2E-FE2F; }
+
+@font-face { font-family: "IBM Plex Mono"; font-style: normal; font-weight:=
+ 500; font-display: swap; src: url("https://fonts.gstatic.com/s/ibmplexmono=
+/v20/-F6qfjptAgt5VM-kVkqdyU8n3twJwlRFgsAXHNlYzg.woff2") format("woff2"); un=
+icode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "IBM Plex Mono"; font-style: normal; font-weight:=
+ 500; font-display: swap; src: url("https://fonts.gstatic.com/s/ibmplexmono=
+/v20/-F6qfjptAgt5VM-kVkqdyU8n3twJwl9FgsAXHNlYzg.woff2") format("woff2"); un=
+icode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1=
+B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "IBM Plex Mono"; font-style: normal; font-weight:=
+ 500; font-display: swap; src: url("https://fonts.gstatic.com/s/ibmplexmono=
+/v20/-F6qfjptAgt5VM-kVkqdyU8n3twJwl5FgsAXHNlYzg.woff2") format("woff2"); un=
+icode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, =
+U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U=
++20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "IBM Plex Mono"; font-style: normal; font-weight:=
+ 500; font-display: swap; src: url("https://fonts.gstatic.com/s/ibmplexmono=
+/v20/-F6qfjptAgt5VM-kVkqdyU8n3twJwlBFgsAXHNk.woff2") format("woff2"); unico=
+de-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, =
+U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, =
+U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUS2zcZiVbJsNo.woff2") format("woff2"); un=
+icode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE=
+2E-FE2F; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUb2zcZiVbJsNo.woff2") format("woff2"); un=
+icode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUQ2zcZiVbJsNo.woff2") format("woff2"); un=
+icode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1=
+B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUR2zcZiVbJsNo.woff2") format("woff2"); un=
+icode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, =
+U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U=
++20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUf2zcZiVbJ.woff2") format("woff2"); unico=
+de-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, =
+U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, =
+U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUS2zcZiVbJsNo.woff2") format("woff2"); un=
+icode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE=
+2E-FE2F; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUb2zcZiVbJsNo.woff2") format("woff2"); un=
+icode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUQ2zcZiVbJsNo.woff2") format("woff2"); un=
+icode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1=
+B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUR2zcZiVbJsNo.woff2") format("woff2"); un=
+icode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, =
+U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U=
++20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUf2zcZiVbJ.woff2") format("woff2"); unico=
+de-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, =
+U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, =
+U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUS2zcZiVbJsNo.woff2") format("woff2"); un=
+icode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE=
+2E-FE2F; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUb2zcZiVbJsNo.woff2") format("woff2"); un=
+icode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUQ2zcZiVbJsNo.woff2") format("woff2"); un=
+icode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1=
+B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUR2zcZiVbJsNo.woff2") format("woff2"); un=
+icode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, =
+U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U=
++20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Libre Franklin"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/librefrank=
+lin/v20/jizDREVItHgc8qDIbSTKq4XkRiUf2zcZiVbJ.woff2") format("woff2"); unico=
+de-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, =
+U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, =
+U+FEFF, U+FFFD; }
+------MultipartBoundary--G9B9igNqtp1i7O2UFa2dpEFDY3lE2Ku6ildQGrG09G------
